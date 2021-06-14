@@ -2,7 +2,7 @@
 ### HEALTHY FOOD TORONTO
 
 - [x] Theme Customization
-- [x] Integration with App's as ReCharge (Subscripton), Zapiet and many others
+- [x] Integration with App's as ReCharge (Subscription), Zapiet and many others
 - [x] Development of new features and Custom Reports
 - [x] JQuery, Liquid (Shopify Language), Javascript, CSS and HTML  
 
